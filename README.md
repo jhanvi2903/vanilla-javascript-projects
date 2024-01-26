@@ -18,6 +18,17 @@
   * The getElementById() method returns an element with a specified value.
   * The getElementById() method returns null if the element does not exist.
   * Syntax- ``` document.getElementById(elementID)```
+ 
+* document.querySelector():-
+   * The querySelector() method returns the first element that matches a CSS selector.
+   * Syntax- ``` document.querySelector(CSS selectors)```
+   * CSS selectors select HTML elements based on id, classes, types, attributes, values of attributes etc. For more details -[https://www.w3schools.com/cssref/css_selectors.php]
+   * Examples -
+      * Get the first p element: ```document.querySelector("p"); ```
+      * Get the first element with class="example": ```document.querySelector(".example"); ```
+   * To return all matches (not only the first), use the querySelectorAll() instead.
+   * Both querySelector() and querySelectorAll() throw a SYNTAX_ERR exception if the selector(s) is invalid.
+   
 
 
 
