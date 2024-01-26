@@ -28,6 +28,12 @@
       * Get the first element with class="example": ```document.querySelector(".example"); ```
    * To return all matches (not only the first), use the querySelectorAll() instead.
    * Both querySelector() and querySelectorAll() throw a SYNTAX_ERR exception if the selector(s) is invalid.
+
+#### 3. addEventListener():-
+  * The addEventListener() method attaches an event handler to an element.
+  * Syntax- ```element.addEventListener(event, function, useCapture)```
+   <img width="626" alt="image" src="https://github.com/jhanvi2903/vanilla-javascript-projects/assets/70269514/f5668e55-a26d-4824-b78e-0f2a3319e2fe">
+
    
 
 
