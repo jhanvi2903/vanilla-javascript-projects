@@ -34,7 +34,7 @@
   * Syntax- ```element.addEventListener(event, function, useCapture)```
    <img width="400" height="200" alt="image" src="https://github.com/jhanvi2903/vanilla-javascript-projects/assets/70269514/f5668e55-a26d-4824-b78e-0f2a3319e2fe">
 
-#### 4. document.body.style.backgroundColor :-
+#### 4. document.body.style.backgroundColor:-
   * The backgroundColor property sets or returns the background color of an element.
   * Return the backgroundColor property: ```object.style.backgroundColor ```
   * Set the backgroundColor property: ```object.style.backgroundColor = "color|transparent|initial|inherit" ```
