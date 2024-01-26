@@ -32,7 +32,7 @@
 #### 3. addEventListener():-
   * The addEventListener() method attaches an event handler to an element.
   * Syntax- ```element.addEventListener(event, function, useCapture)```
-   <img width="626" alt="image" src="https://github.com/jhanvi2903/vanilla-javascript-projects/assets/70269514/f5668e55-a26d-4824-b78e-0f2a3319e2fe">
+   <img width="400" height="200" alt="image" src="https://github.com/jhanvi2903/vanilla-javascript-projects/assets/70269514/f5668e55-a26d-4824-b78e-0f2a3319e2fe">
 
    
 
