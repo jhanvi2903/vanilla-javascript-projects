@@ -11,6 +11,14 @@
 * Math.random()
 * array.length
 
+### Description:
+* document.getElementById():-
+  * The getElementById() method is one of the most common methods in the HTML DOM.
+  * It is used almost every time you want to read or edit an HTML element.
+  * The getElementById() method returns an element with a specified value.
+  * The getElementById() method returns null if the element does not exist.
+  * Syntax- ``` document.getElementById(elementID)```
+
 
 
 # Counter
