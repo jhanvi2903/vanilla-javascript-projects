@@ -41,7 +41,17 @@
   * Syntax- ```document.body.style.backgroundColor = "red";```
   * CSS color values- [https://www.w3schools.com/cssref/css_colors_legal.php]
 
-   
+#### 5. Math.floor():-
+  * The Math.floor() method rounds a number DOWN to the nearest integer.
+
+#### 6. Math.random():-
+  * The Math.random() method returns a random number from 0 (inclusive) up to but not including 1 (exclusive).
+  * Examples -
+     * Return a random number between 0 and 10: ```let x = Math.random() * 10; ```
+     * Return a random number between 0 and 100: ```let x = Math.random() * 100; ```
+     * A random whole number between 1 and 10: ```let x = Math.floor((Math.random() * 10) + 1);  ```
+     * Math.random() does not return a cryptographically secure number.
+     * To return a cryptographically secure number- [https://www.w3schools.com/jsref/met_crypto_getrandomvalues.asp]
 
 
 
