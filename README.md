@@ -12,14 +12,14 @@
 * array.length
 
 ### Description:
-* document.getElementById():-
+#### 1. document.getElementById():-
   * The getElementById() method is one of the most common methods in the HTML DOM.
   * It is used almost every time you want to read or edit an HTML element.
   * The getElementById() method returns an element with a specified value.
   * The getElementById() method returns null if the element does not exist.
   * Syntax- ``` document.getElementById(elementID)```
  
-* document.querySelector():-
+#### 2. document.querySelector():-
    * The querySelector() method returns the first element that matches a CSS selector.
    * Syntax- ``` document.querySelector(CSS selectors)```
    * CSS selectors select HTML elements based on id, classes, types, attributes, values of attributes etc. For more details -[https://www.w3schools.com/cssref/css_selectors.php]
