@@ -29,6 +29,16 @@
      fruits.forEach(myFunction);
      ```
    * For more info - https://www.w3schools.com/jsref/jsref_foreach.asp
+
+#### 3. currentTarget property-
+   * The currentTarget property returns the element whose event listener triggered the event.
+   * This property is read-only. This property is useful during capturing and bubbling.
+   * The currenttarget property refers to the element whose event listener triggered the event, opposed to the target 
+     property, which returns the element that triggered the event.
+   * Syntax - ```event.currentTarget ```
+   * Get the element that triggered the event: ```const element = event.currentTarget; ```
+   * Get the name of the element that triggered the event: ```let text = event.currentTarget.tagName; ```
+    
    
     
 
