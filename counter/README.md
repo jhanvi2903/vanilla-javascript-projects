@@ -7,3 +7,21 @@
 * addEventListener()
 * currentTarget property
 * textContent
+
+### Description:
+#### 1. document.querySelectorAll()-
+  * The querySelectorAll() method returns all elements that matches a CSS selector(s).
+  * The querySelectorAll() method returns a NodeList.
+  * The querySelectorAll() method throws a SYNTAX_ERR exception if the selector(s) is invalid
+  * A NodeList is an array-like collection (list) of nodes.The nodes in the list can be accessed by index. The index starts 
+   at 0. The length Poperty returns the number of nodes in the list.
+  * Syntax - ```document.querySelectorAll(CSS selectors)  ```
+  * Example(Select all elements with class="example") - ```document.querySelectorAll(".example"); ```
+  * For more info - https://www.w3schools.com/jsref/met_document_queryselectorall.asp
+   
+    
+
+
+
+
+
