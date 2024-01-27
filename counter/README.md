@@ -52,6 +52,7 @@
      element.textContent
      node.textContent
      ```
+   * For more info - https://www.w3schools.com/jsref/prop_node_textcontent.asp
     
    
     
