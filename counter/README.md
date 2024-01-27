@@ -38,6 +38,20 @@
    * Syntax - ```event.currentTarget ```
    * Get the element that triggered the event: ```const element = event.currentTarget; ```
    * Get the name of the element that triggered the event: ```let text = event.currentTarget.tagName; ```
+
+#### 4.  textContent-
+   * The textContent property sets or returns the text content of the specified node, and all its descendants.
+   * When you set the textContent property, all child nodes are removed and replaced by only one new text node.
+   * Set the text content of a element or node:
+     ```
+     element.textContent = text
+     node.textContent = text
+     ```
+   * Return the text content of a element or node:
+     ```
+     element.textContent
+     node.textContent
+     ```
     
    
     
