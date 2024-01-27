@@ -18,6 +18,17 @@
   * Syntax - ```document.querySelectorAll(CSS selectors)  ```
   * Example(Select all elements with class="example") - ```document.querySelectorAll(".example"); ```
   * For more info - https://www.w3schools.com/jsref/met_document_queryselectorall.asp
+
+#### 2. forEach()-
+   * The forEach() method calls a function for each element in an array.
+   * The forEach() method is not executed for empty elements.
+   * Syntax- ```array.forEach(function(currentValue, index, arr), thisValue) ```
+   * Example(Calls a function for each element in fruits:) -
+     ```
+     const fruits = ["apple", "orange", "cherry"];
+     fruits.forEach(myFunction);
+     ```
+   * For more info - https://www.w3schools.com/jsref/jsref_foreach.asp
    
     
 
